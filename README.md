@@ -1,37 +1,21 @@
-## ASA DataFest at MSU
-
-DataFest is a 48-hour data science celebration organized by the American Statistical Association. DataFest originated in 2011 and has since spread to nearly 40 locations, including Montana State University in 2018. 
-
-The data set is unveiled on Friday evening and teams of students work the analyze the data and present their findings to a panel of judges on Sunday. Additional details about DataFest can be found on the [ASA website](https://ww2.amstat.org/education/datafest/).
-
-
-### Past Data Sets
-
-Each year a unique, and *top secret*, data set is curated for the contest. Past data providers include:
-
-- 2018 [www.indeed.com](https://www.indeed.com)
-- 2017 [www.expedia.com](https://www.expedia.com)
-- 2016 [www.ticketmaster.com](https://www.ticketmaster.com)
-- 2015 [www.edmunds.com](https://www.edmunds.com)
-- 2014 [www.gridpoint.com](https://www.gridpoint.com)
-- 2103 [www.eharmony.com](https://www.eharmony.com)
-- 2012 [www.kiva.com](https://www.kiva.com)
-- 2011 Los Angeles Police Department
-
-## 2019 Competition
-The second annual ASA DataFest at Montana we be held from April 12 - April 14 in Jake Jabs Hall on the campus of Montana State University. This year participation will be open to all undergraduate and first-year graduate students at colleges and universities in Montana. We are also seeking volunteers to serve as mentors and judges as well as corporate partners for the event.
-
-Thanks to our generous partners meals will be provided during the event.
+## 2022 MT ASA Chapter Meeting
 
 
 ### Event Schedule
-Unless otherwise noted, events will occur in Jabs Hall.
+Unless otherwise noted, events will occur in room 166 of American Indian Hall on the campus of Montana State University.
 
-##### Friday April 12
-- 6:00 Registration and Dinner
-- 6:15 Welcome and Data Reveal
-- 8:00 [Rocky Mountain Data Science](https://rmds.tech)
-- 10:00 Doors Close
+##### Friday October 28
+- 10:00
+- 10:15 Presentation 1
+- 10:45 Presentation 2
+- 11:15 Break
+- 11:30 Panel
+- 12:30 Lunch Break
+- 2 Presentation 3
+- 2:30 Presentation 4
+- 3:00 Break
+- 3:15 Business Meeting
+- 4:00 Adjourn
 
 ##### Saturday April 13
 - 8:30 Doors Open / Continental Breakfast
