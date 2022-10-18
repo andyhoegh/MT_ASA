@@ -1,6 +1,6 @@
 ## 2022 MT ASA Chapter Meeting
 
-Please [register](https://docs.google.com/forms/d/1_DaQ3azCzxW5re5CmCvjZFG7TJ-flK6t0FZN_CTKgE0/edit) for the meeting. Registration is free, but we hope to be able to provide lunch for attendees.
+Please [register](https://docs.google.com/forms/d/e/1FAIpQLSdT8WbChO4p07HLO4QAZJOPYwHE8kv1Vux3pbRgh9E2UfZ4fA/viewform?usp=sf_link) for the meeting. Registration is free, but we hope to be able to provide lunch for attendees.
 
 ### Event Schedule
 Unless otherwise noted, events will occur in room 166 of American Indian Hall on the campus of Montana State University.
