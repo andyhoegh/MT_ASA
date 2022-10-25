@@ -8,13 +8,13 @@ Unless otherwise noted, events will occur in room 166 of American Indian Hall on
 ##### Friday October 28
 - 10:00 Doors Open
 - 10:10 Welcome
-- 10:15 Presentation 1
-- 10:45 Presentation 2
+- 10:15 Presentation: John Smith
+- 10:45 Presentation: Megan Higgs
 - 11:15 Break
 - 11:30 Panel: Careers in Statistics and Data Science
 - 12:30 Lunch Break
-- 2:00 Presentation 3
-- 2:30 Presentation 4
+- 2:00 Presentation: Ian Laga
+- 2:30 Presentation: Kevin Surya
 - 3:00 Break
 - 3:15 Business Meeting
 - 4:00 Adjourn
@@ -48,9 +48,9 @@ __Abstract:__ In this work, we propose a subsampling procedure to decrease compu
 
 John Smith, Montana State University
 
-__Title:__
+__Title:__ Predicting Carbon in Forest Ecosystems: A Case for Process-based Modeling Approaches
 
-__Abstract:__ 
+__Abstract:__ Approaches to prediction and forecasting in ecological applications broadly fall into three  categories: time-series approaches, space-for-time approaches, and process-based modeling approaches. Empirical statistical models built using time-series and space-for-time approaches may be limited in what type of dynamics they are able to capture: i.e. time-series approaches may accurately capture the dynamics of short term processes and drivers, but can miss out on capturing dynamics of long term processes that are occurring on the order of decades to centuries. Process-based models, on the other hand, are mathematical representations of the processes that govern a system. These models combine our knowledge of the biological processes of the system with statistical tools for uncertainty quantification. In theory, process-based models are able to capture dynamics across all time-scales, and will lead to better forecasts and predictions over any horizon. In practice there are many difficulties, including overparameterization and identifiability, enforcing constraints of the underlying system in a statistically coherent manner, and finding suitable fitting methods. We examine these difficulties and provide possible solutions through the lens of a case study: predicting Leaf Area Index at the University of Notre Dame Environmental Research Center. 
 
 ---
 
