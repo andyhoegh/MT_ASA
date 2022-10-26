@@ -1,6 +1,6 @@
 ## 2022 MT ASA Chapter Meeting
 
-Please [register](https://docs.google.com/forms/d/e/1FAIpQLSdT8WbChO4p07HLO4QAZJOPYwHE8kv1Vux3pbRgh9E2UfZ4fA/viewform?usp=sf_link) for the meeting. Registration is free, but we hope to be able to provide lunch for attendees.
+Please [register](https://docs.google.com/forms/d/e/1FAIpQLSdT8WbChO4p07HLO4QAZJOPYwHE8kv1Vux3pbRgh9E2UfZ4fA/viewform?usp=sf_link) for the meeting. Registration is free and we will be providing lunch for participants (at Rendezvous Dining Hall) but please register for the event.
 
 ### Event Schedule
 Unless otherwise noted, events will occur in room 166 of American Indian Hall on the campus of Montana State University.
@@ -56,7 +56,9 @@ __Abstract:__ Approaches to prediction and forecasting in ecological application
 
 Kevin Surya, Montana State University
 
-__Title:__
+__Title:__The Genomic Evolution of Living Fossils
 
-__Abstract:__ 
+
+__Abstract:__ Most animals have changed radically over the past hundreds of millions of years, yet a few species have remained relatively static. Charles Darwin called these ancient-looking creatures living fossils. Perhaps the most mesmerizing, the fish coelacanths off the eastern coast of Africa and Indonesia morphologically look like fossils as old as 300 million years ago. Genomes of several living fossils were sequenced recently, revealing the low average evolutionary rates of their protein-coding DNA sequences. This level of stasis yearns for a special explanation. How could some animal genomes evolve slowly despite continual environmental change? We are currently unraveling this question with statistical models. Knowing what controls living fossils’ pace of genomic evolution is critical for protecting them from today’s unprecedented climate change and predicting other vulnerable animals.
+
 
